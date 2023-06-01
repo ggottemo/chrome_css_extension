@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "CSS Element Outliner",
+    "description": "Applies a simple red outline and solid opacity to all css elements on the page for easier debugging.",
+    "version": "1.0",
+    "permissions": ["activeTab", "scripting" ],
+    "icons": {
+        "16": "icon.png",
+        "32": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+    "action": {
+        "default_icon": {
+            "128": "icon.png"
+        },
+        "default_title": "Apply Custom Styles"
+    },
+    "background": {
+        "service_worker": "background.js"
+    }
+
+}
