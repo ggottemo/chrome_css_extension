@@ -26,7 +26,7 @@ The extension contains the following files:
 
 ## Contribution
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/your-repo/my-custom-styles/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://https://github.com/ggottemo/chrome_css_extension/issues).
 
 ## License
 
